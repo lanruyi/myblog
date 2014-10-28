@@ -25,7 +25,7 @@
 			
 			<div class="site-info">
 				Copyright &copy 2014 lanruyi.net.<br />
-				<a href="www.lanruyi.net">web by lanruyi.net</a>|<a href="http://www.miitbeian.gov.cn/">À’ICP±∏14038561∫≈-1</a>
+				<a href="/">web by lanruyi.net</a>|<a href="http://www.miitbeian.gov.cn/">À’ICP±∏14038561∫≈-1</a>
 			</div>
 		</footer><!-- #colophon -->
 	</div><!-- #page -->
