@@ -1,3 +1,6 @@
+<head>
+	<meta http-equiv="Content-Type" Content="text/html;Charset=utf-8">
+</head>
 <?php
 /**
  * The template for displaying the footer
@@ -9,9 +12,6 @@
  * @since Twenty Fourteen 1.0
  */
 ?>
-<head>
-	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-</head>
 		</div><!-- #main -->
 
 		<footer id="colophon" class="site-footer" role="contentinfo">
