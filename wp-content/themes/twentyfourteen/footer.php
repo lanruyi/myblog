@@ -31,5 +31,11 @@
 	</div><!-- #page -->
 
 	<?php wp_footer(); ?>
+	
+	<script type="text/javascript">
+		var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+		document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F63a9af44247b7b18b6972c8d6b9fdb04' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+<!--百度分析工具-->
 </body>
 </html>
